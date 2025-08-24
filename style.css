@@ -31,7 +31,6 @@ body {
 /* Navegação */
 .navegacao {
   position: fixed;
-  display: flex;
   top: 0;
   width: 100%;
   background: rgba(15, 23, 42, 0.8);
@@ -262,3 +261,4 @@ body {
     radial-gradient(circle at 90% 80%, var(--primaria) 0%, transparent 20%),
     var(--maisescuro);
 }
+
