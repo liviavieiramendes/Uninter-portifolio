@@ -31,6 +31,7 @@ body {
 /* Navegação */
 .navegacao {
   position: fixed;
+  display: flex;
   top: 0;
   width: 100%;
   background: rgba(15, 23, 42, 0.8);
@@ -248,7 +249,7 @@ body {
   color: var(--claro);
 }
 
-/* Partículas do fundo */
+/* Partículas de decoração do fundo */
 .particulas {
   position: fixed;
   top: 0;
